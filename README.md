@@ -1,1 +1,1 @@
-# Calculator-by-Izzy.com
+# Calculator-by-Hiccup.com
